@@ -1,0 +1,124 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.simplemall.micro.serv.msg.config.DataSourceProperties",
+      "name": "spring.datasource",
+      "type": "com.simplemall.micro.serv.msg.config.DataSourceProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.simplemall.micro.serv.msg.config.DataSourceProperties",
+      "name": "spring.datasource.driver-class-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.simplemall.micro.serv.msg.config.DataSourceProperties",
+      "name": "spring.datasource.filters",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.simplemall.micro.serv.msg.config.DataSourceProperties",
+      "defaultValue": 10,
+      "name": "spring.datasource.initial-size",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.simplemall.micro.serv.msg.config.DataSourceProperties",
+      "name": "spring.datasource.mapper-locations",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.simplemall.micro.serv.msg.config.DataSourceProperties",
+      "defaultValue": 0,
+      "name": "spring.datasource.max-active",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.simplemall.micro.serv.msg.config.DataSourceProperties",
+      "defaultValue": 0,
+      "name": "spring.datasource.max-idle",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.simplemall.micro.serv.msg.config.DataSourceProperties",
+      "defaultValue": 0,
+      "name": "spring.datasource.max-open-prepared-statements",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.simplemall.micro.serv.msg.config.DataSourceProperties",
+      "defaultValue": 0,
+      "name": "spring.datasource.max-wait",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.simplemall.micro.serv.msg.config.DataSourceProperties",
+      "defaultValue": 0,
+      "name": "spring.datasource.min-evictable-idle-time-millis",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.simplemall.micro.serv.msg.config.DataSourceProperties",
+      "defaultValue": 0,
+      "name": "spring.datasource.min-idle",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.simplemall.micro.serv.msg.config.DataSourceProperties",
+      "name": "spring.datasource.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.simplemall.micro.serv.msg.config.DataSourceProperties",
+      "defaultValue": false,
+      "name": "spring.datasource.pool-prepared-statements",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "com.simplemall.micro.serv.msg.config.DataSourceProperties",
+      "defaultValue": false,
+      "name": "spring.datasource.test-on-borrow",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "com.simplemall.micro.serv.msg.config.DataSourceProperties",
+      "defaultValue": false,
+      "name": "spring.datasource.test-on-return",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "com.simplemall.micro.serv.msg.config.DataSourceProperties",
+      "defaultValue": false,
+      "name": "spring.datasource.test-while-idle",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "com.simplemall.micro.serv.msg.config.DataSourceProperties",
+      "defaultValue": 0,
+      "name": "spring.datasource.time-between-eviction-runs-millis",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.simplemall.micro.serv.msg.config.DataSourceProperties",
+      "name": "spring.datasource.type-alias-package",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.simplemall.micro.serv.msg.config.DataSourceProperties",
+      "name": "spring.datasource.url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.simplemall.micro.serv.msg.config.DataSourceProperties",
+      "name": "spring.datasource.username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.simplemall.micro.serv.msg.config.DataSourceProperties",
+      "name": "spring.datasource.validation-query",
+      "type": "java.lang.String"
+    }
+  ]
+}
